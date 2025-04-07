@@ -1,6 +1,6 @@
-# Retail Customer Segmentation and Recommendation with RFM, K-Means, and Market Basket Analysis
+# Retail Customer Segmentation and Product Recommendation using RFM, K-Means, and Apriori"
 
-This project explores customer segmentation using a retail dataset. The primary goal is to identify meaningful customer groups and product recommendation using **RFM analysis** (Recency, Frequency, Monetary), **K-Means clustering** and **Apriori Algoritm** to help guide targeted marketing strategies.
+This project focuses on segmenting retail customers through RFM analysis and K-Means clustering, followed by product recommendations using the Apriori algorithm. The goal is to identify distinct customer groups and provide personalized product suggestions, enabling more effective marketing and enhanced customer experience.
 
 ## Data Cleaning
 
