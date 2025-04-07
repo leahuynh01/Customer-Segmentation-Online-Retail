@@ -63,4 +63,7 @@ Created a separate analysis for high-value customer outliers:
 ## Product Recommendation
 On progress
 
+### Cited Credits
+- Feature image: Corporate Vision <br>
+https://www.corporatevision-news.com/5-customer-segmentation-analysis-methods-for-business-growth/
 ---
